@@ -1,0 +1,12 @@
+{
+    "metadata": {
+        "name": "v0.1.0-alpha23"
+    },
+    "spec": {
+        "version": "v0.1.0-alpha23",
+        "type": "container",
+        "metadata": {
+            "upgradeImage": "foo/bar:v0.1.0-alpha23"
+        }
+    }
+}
